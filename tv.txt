@@ -5,6 +5,7 @@ CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226006/index
 CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226003/index.m3u8
 CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226004/index.m3u8
 CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226001/index.m3u8
+CCTV2 4M1080,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV3 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -105,3 +106,7 @@ NewTV精品萌宠 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 江西风尚购物 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
 安徽家家购物 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
 湖南快乐购 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226094/index.m3u8
+云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
+云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
+云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
+云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
