@@ -6,7 +6,6 @@
           "name": "在线",
           "type":"0",
           "pass": true,
-          //"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
           "url":"http://home.jundie.top:81/ray/tvlive.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
